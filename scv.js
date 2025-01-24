@@ -1,1 +1,1 @@
-console.log('dovla');
+window.close();
